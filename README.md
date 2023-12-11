@@ -1,6 +1,6 @@
 # FoodSnap - Revolutionizing Dietary Management
 
-![Food-eye Logo](https://drive.google.com/uc?export=view&id=1hvJj1UAiZKAI2iPhKo6tQp-jabylUi0R)
+![Food-eye Logo](https://drive.google.com/file/d/1psz96YEsg323lmv1_WiBlNeK6aBOzFUv/view?usp=drivesdk)
 
 
 The **"Food-eye"** project is a groundbreaking and comprehensive initiative aimed at transforming dietary management through the application of cutting-edge Deep Learning and Natural Language Processing (NLP) techniques. This AI-powered smart food analyzer and dietary tracking tool empowers users to effortlessly record and monitor their food intake while providing detailed nutritional information, personalized dietary recommendations, meal suggestions, and advanced analytics.
